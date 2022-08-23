@@ -1,6 +1,6 @@
 # Climate Data Visualization Project
 
-The notebook code and output can be seen at: https://nbviewer.org/github/skembr01/data_vis_class_project/blob/main/Climate_data_for_data_visualization.ipynb
+The notebook code and output can be seen at: https://nbviewer.org/github/skembr01/Climate_Data_Viz_Project/blob/main/Climate_data_for_data_visualization.ipynb
 
   In this project, I created data visualizations to help people explore data regarding climate change. I worked with five datasets from the University of Oxford’s Our World in Data project. Three of these regarded attributes of individual countries and continents across time. These attributes were absolute annual change in CO₂ emissions (measured in metric tons), per capita CO₂ emissions (parts per million), and life expectancy. Due to the suggested number of datapoints to work with, I sampled four continents from the data (excluding South America, North America, and Antarctica) and seven countries, Angola, China, India, Brazil, Sweden, New Zealand, and the United States. Additionally, I only utilized data from the years 1850 - 2019. Then, the other two datasets regarded attributes to the entire world and also ranged across time. These attributes included global CO₂ levels across history, and median annual temperature deviances from the 1961-1999 global temperature average. The time frame for the first attribute stretched from 800000 BCE to 2018, and I used the timeframe of 1850 - 2019 for the second attribute. 
   
